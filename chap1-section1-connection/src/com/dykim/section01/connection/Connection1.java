@@ -8,6 +8,7 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 
+
 public class Connection1 {
 	public static void main(String[] args) {
 		//환경변수 설정
