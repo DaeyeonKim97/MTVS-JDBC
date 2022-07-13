@@ -18,7 +18,6 @@ public class Application5 {
 	public static void main(String[] args) {
 		Connection con = getConnection();
 		PreparedStatement pstmt = null;
-		PreparedStatement pset = null;
 		ResultSet rset = null;
 		EmployeeDTO selectEmp = null;
 		List<EmployeeDTO> empList = new ArrayList<>();
